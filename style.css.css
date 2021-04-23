@@ -1,0 +1,63 @@
+body, html {
+    
+    background-color: #212529;
+}
+
+.bgi1{
+    background-image: url('https://images6.alphacoders.com/106/1062369.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%; 
+    width: 100%;
+    color:white;
+    padding-bottom: 300px;
+    padding-top: 150px;
+}
+
+.bgi2{
+    background-image: url('https://www.newshub.co.nz/home/world/2018/10/how-to-see-five-planets-all-at-the-same-time/_jcr_content/par/image.dynimg.full.q75.jpg/v1539468689162/GettyImages-835736220-solar-system-planets-not-real-photo-1120.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%; 
+    width: 100%;
+    color:white;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+
+.bgi3{
+    background-image: url('https://daily.jstor.org/wp-content/uploads/2018/04/twilight_zone_1050x700.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%; 
+    width: 100%;
+    color:white;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+.bgi4{
+    background-image: url('https://images3.alphacoders.com/678/thumb-1920-678532.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%; 
+    width: 100%;
+  
+    color:white;
+    padding-bottom: 200px;
+    padding-top: 50px;
+}
+
+
+
+.bgi5{
+    background-image: url('https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 100%; 
+    width: 100%;
+    color:white;
+    padding-bottom: 300px;
+    padding-top: 50px;
+}
