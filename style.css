@@ -1,6 +1,9 @@
-body, html {
-    
+body{ 
     background-color: #212529;
+}
+
+.aniScroll{
+    scroll-behavior: smooth;
 }
 
 .bgi1{
@@ -12,6 +15,7 @@ body, html {
     color:white;
     padding-bottom: 300px;
     padding-top: 150px;
+    background-position: center left;
 }
 
 .bgi2{
@@ -22,7 +26,7 @@ body, html {
     width: 100%;
     color:white;
     padding-bottom: 100px;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 
@@ -30,11 +34,12 @@ body, html {
     background-image: url('https://daily.jstor.org/wp-content/uploads/2018/04/twilight_zone_1050x700.jpg'); 
     background-repeat: no-repeat;
     background-size: cover; 
-    height: 100%; 
-    width: 100%;
+    background-position: center center;
     color:white;
     padding-bottom: 100px;
-    padding-top: 50px;
+    padding-top: 20px;
+    
+    
 }
 
 .bgi4{
@@ -43,10 +48,9 @@ body, html {
     background-size: cover; 
     height: 100%; 
     width: 100%;
-  
     color:white;
-    padding-bottom: 200px;
-    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-top: 20px;
 }
 
 
@@ -55,9 +59,31 @@ body, html {
     background-image: url('https://images.unsplash.com/photo-1504333638930-c8787321eee0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80'); 
     background-repeat: no-repeat;
     background-size: cover; 
+    background-position: center center;
     height: 100%; 
     width: 100%;
     color:white;
-    padding-bottom: 300px;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    
+}
+
+
+.pdn{
     padding-top: 50px;
 }
+
+a{
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: white !important;
+    color: black;
+    border-color: white;
+ } 
+
+ .mofifyFont:hover{
+     font-size: 20px;
+     font-weight: bolder;
+ }
